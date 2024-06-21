@@ -45,6 +45,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sanketkanse999/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sanketkanse999/Leetcode/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/sanketkanse999/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/sanketkanse999/Leetcode/tree/master/0853-most-profit-assigning-work) |
@@ -62,4 +63,5 @@
 # String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sanketkanse999/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sanketkanse999/Leetcode/tree/master/0344-reverse-string) |
