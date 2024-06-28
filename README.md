@@ -122,3 +122,10 @@
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/sanketkanse999/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/sanketkanse999/Leetcode/tree/master/1916-find-center-of-star-graph) |
+<!---LeetCode Topics End-->
