@@ -207,11 +207,13 @@
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/sanketkanse999/Leetcode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sanketkanse999/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/sanketkanse999/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/sanketkanse999/Leetcode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sanketkanse999/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -243,4 +245,12 @@
 | ------- |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sanketkanse999/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sanketkanse999/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sanketkanse999/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sanketkanse999/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
