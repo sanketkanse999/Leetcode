@@ -180,6 +180,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sanketkanse999/Leetcode/tree/master/0078-subsets) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanketkanse999/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/sanketkanse999/Leetcode/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sanketkanse999/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -311,4 +312,12 @@
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sanketkanse999/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sanketkanse999/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sanketkanse999/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
