@@ -128,6 +128,7 @@
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sanketkanse999/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sanketkanse999/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sanketkanse999/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1916-find-center-of-star-graph](https://github.com/sanketkanse999/Leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sanketkanse999/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -275,6 +276,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/sanketkanse999/Leetcode/tree/master/1013-fibonacci-number) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sanketkanse999/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Memoization
 |  |
 | ------- |
@@ -305,4 +307,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/sanketkanse999/Leetcode/tree/master/0948-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sanketkanse999/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
