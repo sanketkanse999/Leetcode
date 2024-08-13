@@ -187,6 +187,7 @@
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/sanketkanse999/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sanketkanse999/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sanketkanse999/Leetcode/tree/master/0078-subsets) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanketkanse999/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -355,6 +356,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanketkanse999/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0040-combination-sum-ii](https://github.com/sanketkanse999/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sanketkanse999/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sanketkanse999/Leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
