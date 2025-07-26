@@ -191,6 +191,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanketkanse999/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0040-combination-sum-ii](https://github.com/sanketkanse999/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sanketkanse999/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sanketkanse999/Leetcode/tree/master/0078-subsets) |
@@ -244,6 +245,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanketkanse999/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanketkanse999/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sanketkanse999/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sanketkanse999/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -341,6 +343,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanketkanse999/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0948-sort-an-array](https://github.com/sanketkanse999/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
