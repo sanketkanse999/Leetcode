@@ -267,12 +267,14 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sanketkanse999/Leetcode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/sanketkanse999/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/sanketkanse999/Leetcode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sanketkanse999/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/sanketkanse999/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sanketkanse999/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/sanketkanse999/Leetcode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sanketkanse999/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -380,6 +382,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sanketkanse999/Leetcode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/sanketkanse999/Leetcode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/sanketkanse999/Leetcode/tree/master/0476-number-complement) |
 ## Binary Indexed Tree
 |  |
