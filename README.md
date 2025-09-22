@@ -191,6 +191,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanketkanse999/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanketkanse999/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0040-combination-sum-ii](https://github.com/sanketkanse999/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sanketkanse999/Leetcode/tree/master/0046-permutations) |
@@ -226,6 +227,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanketkanse999/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanketkanse999/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanketkanse999/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/sanketkanse999/Leetcode/tree/master/0726-number-of-atoms) |
