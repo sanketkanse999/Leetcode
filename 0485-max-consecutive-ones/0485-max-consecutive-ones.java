@@ -7,13 +7,16 @@ class Solution {
     for(int i=0 ; i<nums.length; i++){
         if(nums[i]==1){
             curr++;
+            // if(curr>max){
+            //     max = curr;
+            // }
+
+            max = Math.max(max,curr);
         }else{
             curr=0;
             
         }
-        if(curr>max){
-                max = curr;
-            }
+        
         
 
     }
