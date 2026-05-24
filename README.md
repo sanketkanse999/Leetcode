@@ -206,6 +206,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/sanketkanse999/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/sanketkanse999/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/sanketkanse999/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1470-shuffle-the-array](https://github.com/sanketkanse999/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sanketkanse999/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/sanketkanse999/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sanketkanse999/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
