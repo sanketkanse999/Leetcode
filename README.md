@@ -215,6 +215,7 @@
 | [1720-crawler-log-folder](https://github.com/sanketkanse999/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sanketkanse999/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/sanketkanse999/Leetcode/tree/master/1803-average-waiting-time) |
+| [1929-concatenation-of-array](https://github.com/sanketkanse999/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sanketkanse999/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sanketkanse999/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sanketkanse999/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -261,6 +262,7 @@
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/sanketkanse999/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1803-average-waiting-time](https://github.com/sanketkanse999/Leetcode/tree/master/1803-average-waiting-time) |
+| [1929-concatenation-of-array](https://github.com/sanketkanse999/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sanketkanse999/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sanketkanse999/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/sanketkanse999/Leetcode/tree/master/2645-pass-the-pillow) |
