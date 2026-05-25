@@ -212,6 +212,7 @@
 | [1293-three-consecutive-odds](https://github.com/sanketkanse999/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/sanketkanse999/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanketkanse999/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/sanketkanse999/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/sanketkanse999/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sanketkanse999/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/sanketkanse999/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -271,6 +272,7 @@
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/sanketkanse999/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/sanketkanse999/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1803-average-waiting-time](https://github.com/sanketkanse999/Leetcode/tree/master/1803-average-waiting-time) |
 | [1929-concatenation-of-array](https://github.com/sanketkanse999/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sanketkanse999/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -321,6 +323,7 @@
 | [0020-valid-parentheses](https://github.com/sanketkanse999/Leetcode/tree/master/0020-valid-parentheses) |
 | [0726-number-of-atoms](https://github.com/sanketkanse999/Leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanketkanse999/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/sanketkanse999/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1720-crawler-log-folder](https://github.com/sanketkanse999/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sanketkanse999/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanketkanse999/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
