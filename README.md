@@ -198,6 +198,7 @@
 | [0040-combination-sum-ii](https://github.com/sanketkanse999/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sanketkanse999/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sanketkanse999/Leetcode/tree/master/0078-subsets) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sanketkanse999/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanketkanse999/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sanketkanse999/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sanketkanse999/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -283,6 +284,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sanketkanse999/Leetcode/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sanketkanse999/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/sanketkanse999/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sanketkanse999/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanketkanse999/Leetcode/tree/master/0342-power-of-four) |
@@ -321,6 +323,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanketkanse999/Leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sanketkanse999/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0726-number-of-atoms](https://github.com/sanketkanse999/Leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanketkanse999/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sanketkanse999/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
