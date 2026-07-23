@@ -257,6 +257,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanketkanse999/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sanketkanse999/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sanketkanse999/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1768-merge-strings-alternately](https://github.com/sanketkanse999/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -312,6 +313,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanketkanse999/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/sanketkanse999/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sanketkanse999/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1768-merge-strings-alternately](https://github.com/sanketkanse999/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanketkanse999/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sanketkanse999/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sanketkanse999/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
