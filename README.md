@@ -213,6 +213,7 @@
 | [1293-three-consecutive-odds](https://github.com/sanketkanse999/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/sanketkanse999/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanketkanse999/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/sanketkanse999/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sanketkanse999/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/sanketkanse999/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sanketkanse999/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
