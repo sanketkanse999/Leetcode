@@ -260,6 +260,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sanketkanse999/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanketkanse999/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanketkanse999/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sanketkanse999/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -317,6 +318,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanketkanse999/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sanketkanse999/Leetcode/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/sanketkanse999/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanketkanse999/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0726-number-of-atoms](https://github.com/sanketkanse999/Leetcode/tree/master/0726-number-of-atoms) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sanketkanse999/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
